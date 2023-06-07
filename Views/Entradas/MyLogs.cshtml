@@ -1,0 +1,41 @@
+﻿@model EmpleadoRegistroViewVM
+
+@{
+    ViewData["Title"] = "Mis Entradas";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h2>Mis Entradas</h2>
+    </div>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">
+            <div class="row">
+                <div class="col">Nombre Registro</div>
+                <div class="col">Fecha de Entrada</div>
+                <div class="col">Comentarios</div>
+            </div>
+        </li>
+        @foreach (var entry in Model.MisRegistros)
+        {
+            <li class="list-group-item">
+                <div class="row">
+                    <div class="col"><h6>@entry.TipoRegistro.Nombre</h6> </div>
+                    <div class="col">
+                        <button type="button" class="btn btn-primary">
+                            Fecha de Entrada <span class="badge bg-secondary">@entry.TipoRegistro.FechaEntrada</span>
+                        </button>
+                    </div>
+                    <div class="col">
+                        <button type="button" class="btn btn-primary">
+                            Comentario <span class="badge bg-secondary">@entry.Comentario</span>
+                        </button>
+                    </div>
+                </div>
+            </li>
+        }
+    </ul>
+</div>
+
+<hr />
+<h2>Registro Actual</h2>           

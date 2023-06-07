@@ -1,0 +1,8 @@
+C:\Users\Christian Sistemas\source\repos\ResidenciaMVC\obj\Debug\net7.0\ResidenciaMVC.csproj.AssemblyReference.cache
+C:\Users\Christian Sistemas\source\repos\ResidenciaMVC\obj\Debug\net7.0\ResidenciaMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian Sistemas\source\repos\ResidenciaMVC\obj\Debug\net7.0\ResidenciaMVC.AssemblyInfoInputs.cache
+C:\Users\Christian Sistemas\source\repos\ResidenciaMVC\obj\Debug\net7.0\ResidenciaMVC.AssemblyInfo.cs
+C:\Users\Christian Sistemas\source\repos\ResidenciaMVC\obj\Debug\net7.0\ResidenciaMVC.csproj.CoreCompileInputs.cache
+C:\Users\Christian Sistemas\source\repos\ResidenciaMVC\obj\Debug\net7.0\ResidenciaMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Christian Sistemas\source\repos\ResidenciaMVC\obj\Debug\net7.0\ResidenciaMVC.RazorAssemblyInfo.cache
+C:\Users\Christian Sistemas\source\repos\ResidenciaMVC\obj\Debug\net7.0\ResidenciaMVC.RazorAssemblyInfo.cs
